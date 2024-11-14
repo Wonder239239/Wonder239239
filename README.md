@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Wonder239239
 - 👀 I’m interested in Machine Learning and Deep Learning
-- 🌱 I’m currently learning Java and Deep learning 
+- 🌱 I’m currently learning Java and Go
 
 
 <!---
